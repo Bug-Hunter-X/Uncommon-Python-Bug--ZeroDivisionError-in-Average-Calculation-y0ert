@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Python function designed to calculate the average of a list of numbers. The bug occurs when the input list is empty, resulting in a ZeroDivisionError. The solution shows how to correctly handle this edge case.
